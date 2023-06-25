@@ -1,0 +1,11 @@
+.{
+    .name = "basisu-zig",
+    .version = "0.0.0",
+
+    .dependencies = .{
+        .basisu = .{
+            .url = "https://github.com/hexops/basisu/archive/3a691fda2bddd8d90a22044f0dca9bb87e05197c.tar.gz",
+            .hash = "1220506d9cdddff394bab47582f17b0907f50fb0ac7b26383d8b095bae40fdf69f82",
+        },
+    },
+}
